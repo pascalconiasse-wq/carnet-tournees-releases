@@ -1,0 +1,6 @@
+{
+  "versionCode": 17,
+  "versionName": "17",
+  "apk": "https://raw.githubusercontent.com/pascalconiasse-wq/carnet-tournees-releases/main/CarnetTournees-17.apk",
+  "notes": "Envoyer la configuration : nouvelle option « Avec les relevés en cours » pour passer une tournée commencée à un collègue."
+}
